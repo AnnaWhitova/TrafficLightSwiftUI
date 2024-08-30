@@ -11,6 +11,7 @@
 		2AD5453A2C80F911005D8758 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD545392C80F911005D8758 /* ContentView.swift */; };
 		2AD5453C2C80F918005D8758 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2AD5453B2C80F918005D8758 /* Assets.xcassets */; };
 		2AD5453F2C80F918005D8758 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2AD5453E2C80F918005D8758 /* Preview Assets.xcassets */; };
+		2AD545462C80FE55005D8758 /* TrafficLightCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD545452C80FE55005D8758 /* TrafficLightCircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2AD545392C80F911005D8758 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2AD5453B2C80F918005D8758 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2AD5453E2C80F918005D8758 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2AD545452C80FE55005D8758 /* TrafficLightCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrafficLightCircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2AD545372C80F911005D8758 /* TrafficLightApp.swift */,
 				2AD545392C80F911005D8758 /* ContentView.swift */,
+				2AD545452C80FE55005D8758 /* TrafficLightCircleView.swift */,
 				2AD5453B2C80F918005D8758 /* Assets.xcassets */,
 				2AD5453D2C80F918005D8758 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2AD5453A2C80F911005D8758 /* ContentView.swift in Sources */,
+				2AD545462C80FE55005D8758 /* TrafficLightCircleView.swift in Sources */,
 				2AD545382C80F911005D8758 /* TrafficLightApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
